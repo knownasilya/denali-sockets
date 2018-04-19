@@ -2,9 +2,9 @@
   "name": "dummy",
   "version": "0.0.0",
   "dependencies": {
+    "@denali-js/cli": "^0.1.4",
     "@denali-js/core": "*",
     "@denali-js/babel": "*",
-    "@denali-js/eslint": "*",
-    "denali-sockets": "*"
+    "@denali-js/eslint": "*"
   }
 }
